@@ -3,8 +3,9 @@
 a doc string
 """
 from devsetgo_lib.file_functions import create_sample_files
-from src.com_lib.log_config import config_log
 from loguru import logger
+
+from src.com_lib.log_config import config_log
 
 # initiate logging
 config_log()

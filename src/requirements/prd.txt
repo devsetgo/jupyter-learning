@@ -1,4 +1,13 @@
-devsetgo_lib==0.2.0
-gunicorn==20.0.4
-loguru==0.4.1
-python-dotenv==0.12.0
+devsetgo_lib==0.4.0 # from 0.2.0
+#gunicorn==20.0.4
+loguru==0.5.3 # from 0.4.1
+#python-dotenv==0.14.0 # from 0.12.0
+jupyterlab==2.2.8
+pandas==1.1.2
+numpy==1.9.2
+matplotlib==3.3.2
+seaborn==0.11.0
+jupyterthemes==0.20.0
+# jupyter_contrib_nbextensions==0.5.1
+# ipywidgets==7.5.1
+# qgrid==1.3.1
